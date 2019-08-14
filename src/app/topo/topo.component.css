@@ -1,0 +1,11 @@
+.circle-img-logo {
+    background-color: #fff;
+    border-radius: 50%;
+    width: 70px;
+    height: 70px;
+    overflow: hidden;
+    position: relative;
+    border: 1px solid #ccc;
+    -webkit-box-shadow: 3px 1px 50px #212529;
+    box-shadow: 2px 1px 30px #212529;
+}
